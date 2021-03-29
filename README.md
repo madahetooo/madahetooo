@@ -1,8 +1,8 @@
 ### Hi I am Eslam Medhat 👋
 
-## I am a Chatbot developer at Art Dimension | INTEGRATED COMMUNICATIONS , Android Developer , GDG Leader , Instructor and Author.
+## I am a Chatbot developer at Art Dimension | INTEGRATED COMMUNICATIONS , Mid-Senior Android Developer , GDG Leader , Instructor and Author.
 
-I had a lot of significant professional experiences as a Public Trainer. transformed thousands of developer's lives by teaching them how to work with Google Assistant, GCP, Android, Java, Flutter, UI UX, Web Development, and Gsuite in only 3 years by performing + 120 sessions across Egypt and outside Egypt. 
+I had a lot of significant professional experiences as a Public Trainer. transformed thousands of developer's lives by teaching them how to work with Google Assistant, GCP, Android, Java, Flutter, UI UX, Web Development, and Gsuite in only 3 years by performing + 200 sessions across Egypt and outside Egypt. 
 
 
 - 🔭 I’m currently working as a **Chatbot Developer ** in [Art Dimension](https://ad.net.sa/ad/site/public/).
