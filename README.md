@@ -1,14 +1,14 @@
 ### Hi I am Eslam Medhat 👋
 
-## I am a Chatbot developer at Art Dimension | INTEGRATED COMMUNICATIONS , Mid-Senior Android Developer , GDG Leader , Instructor and Author.
+## I am a Application Developer | Trainer at BambooGeeks, Android Developer Mid-level, GDG Leader , Instructor and Author.
 
 I had a lot of significant professional experiences as a Public Trainer. transformed thousands of developer's lives by teaching them how to work with Google Assistant, GCP, Android, Java, Flutter, UI UX, Web Development, and Gsuite in only 3 years by performing + 200 sessions across Egypt and outside Egypt. 
 
 
-- 🔭 I’m currently working as a **Chatbot Developer ** in [Art Dimension](https://ad.net.sa/ad/site/public/).
-- 🌱 I’m currently learning  and Developing Machine Learning based projects in Python.
+- 🔭 I’m currently working as a **Apllication Developer | Trainer** in [BambooGeeks](https://www.bamboogeeks.com).
+- 🌱 I’m currently learning  and Developing Angular Websites.
 - 📝 Writing tech blog posts over Internet.
-- 💬 Ask me about: OOP, Java, XML, Android, Web, Mobile, RESTful APIs, Database, UI, UX, Cloud, Flutter,Version Control, Team Management.
+- 💬 Ask me about: Firebase, OOP, Java, XML, Android, Web, Mobile, RESTful APIs, Database, UI, UX, Cloud, Flutter,Version Control, Team Management.
 - 📫 How to reach me: catch, and follow me from the footer links below 👇 in addition to follow me here.
 - ⚡ Fun fact: i Love 😺 🌍 ❄️ 🍎 🍔 🍤 ⚽️ 🎧 🎬 🎤 ✈️ 💻 📱 📸  
 -->
