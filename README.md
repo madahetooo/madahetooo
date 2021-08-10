@@ -3,7 +3,7 @@
 
 ## I am an Application Developer | Trainer at BambooGeeks, Android Developer Mid-level, GDG Leader , Instructor and Author.
 
-I had a lot of significant professional experiences as a Public Trainer. transformed thousands of developer's lives by teaching them how to work with Google Assistant, GCP, Android, Java, Flutter, UI UX, Web Development, and Gsuite in only 3 years by performing + 200 sessions across Egypt and outside Egypt. 
+I had a lot of significant professional experiences as a Public Trainer. transformed  hundreds of developer's lives by teaching them how to work with Google Assistant, GCP, Android, Java, Flutter, UI UX, Web Development, and Gsuite in only 3 years by performing + 200 sessions across Egypt and outside Egypt. 
 
 
 - 🔭 I’m currently working as a **Apllication Developer | Trainer** in [BambooGeeks](https://www.bamboogeeks.com).
