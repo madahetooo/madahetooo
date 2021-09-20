@@ -56,11 +56,11 @@ I had a lot of significant professional experiences as a Public Trainer. transfo
 <p align="center">
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
 <p align="center">
-    <a href="https://twitter.com/madahetooo" alt="Twitter"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/twitter.png"></a>
-    <a href="https://www.linkedin.com/in/madahetooo/" alt="Linkedin"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/linkedin.png"></a>
-    <a href="https://www.instagram.com/madahetooo/?hl=en" alt="Instagram"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/insta.png"></a>
-    <a href="https://www.facebook.com/madahetooo" alt="Facebook"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/facebook.png"></a>
-    <a href="https://github.com/madahetooo" alt="GitHub"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/github.png"></a>
+    <a href="https://twitter.com/madahetooo" alt="Twitter"><img src="https://www.danoneinstitute.org/wp-content/uploads/2020/06/logo-rond-twitter.png"></a>
+    <a href="https://www.linkedin.com/in/madahetooo/" alt="Linkedin"><img src="https://www.kindpng.com/picc/m/363-3632986_logo-linkedin-png-rond-transparent-png.png"></a>
+    <a href="https://www.instagram.com/madahetooo/?hl=en" alt="Instagram"><img src="https://image.similarpng.com/very-thumbnail/2020/05/Glossy-Instagram-logo-PNG.png"></a>
+    <a href="https://www.facebook.com/madahetooo" alt="Facebook"><img src="https://iconape.com/wp-content/files/yd/117914/svg/Facebook_f_logo__2019_.svg"></a>
+    <a href="https://github.com/madahetooo" alt="GitHub"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png"></a>
 </p>
   
 </p>
