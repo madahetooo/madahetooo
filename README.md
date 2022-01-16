@@ -7,7 +7,7 @@ I had a lot of significant professional experiences as a Public Trainer. transfo
 
 
 - 🔭 I’m currently working as a **Apllication Developer | Trainer** at [BambooGeeks](https://www.bamboogeeks.com).
-- 🌱 I’m currently learning  and Developing Angular Websites.
+- 🌱 I’m currently learning  and Developing Flutter Application using Firebase.
 - 📝 Writing tech blog posts over Internet.
 - 💬 Ask me about: Firebase, OOP, Java, XML, Android, Web, Mobile, RESTful APIs, Database, UI, UX, Cloud, Flutter,Version Control, Team Management.
 - 📫 How to reach me: catch, and follow me from the footer links below 👇 in addition to follow me here.
