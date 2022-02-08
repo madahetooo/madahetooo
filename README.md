@@ -3,11 +3,11 @@
 
 ## I am a Google Developer Expert in Firebase  🔥 and an Application Developer | Trainer at BambooGeeks, Android Developer Mid-level, GDG Leader , Instructor and Author.
 
-I had a lot of significant professional experiences as a Public Trainer. transformed  hundreds of developer's lives by teaching them how to work with Google Assistant, GCP, Android, Java, Flutter, UI UX, Web Development, and Gsuite in only 3 years by performing + 200 sessions across Egypt and outside Egypt. 
+I had a lot of significant professional experiences as a Public Trainer. transformed  hundreds of developer's lives by teaching them how to work with Google Assistant, GCP, Android, Java, Flutter, UI UX, Web Development, and Gsuite in only 4 years by performing + 400 sessions across Egypt and outside Egypt. 
 
 
 - 🔭 I’m currently working as a **Apllication Developer | Trainer** at [BambooGeeks](https://www.bamboogeeks.com).
-- 🌱 I’m currently learning  and Developing Flutter Application using Firebase.
+- 🌱 I’m currently learning  and Developing Mobile Application with Firebase.
 - 📝 Writing tech blog posts over Internet.
 - 💬 Ask me about: Firebase, OOP, Java, XML, Android, Web, Mobile, RESTful APIs, Database, UI, UX, Cloud, Flutter,Version Control, Team Management.
 - 📫 How to reach me: catch, and follow me from the footer links below 👇 in addition to follow me here.
