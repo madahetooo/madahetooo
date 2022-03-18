@@ -2,13 +2,13 @@
 ![Screen Shot 2021-12-21 at 3 43 22 PM](https://user-images.githubusercontent.com/28203059/159008453-1fb9a75a-7503-41ae-9fe2-b70d8bdccc57.png)
 ## I am a Google Developer Expert in Firebase  🔥 and an Application Developer | Trainer at BambooGeeks, Senior Android Developer, GDG Leader , Instructor and Author.
 
-I had a lot of significant professional experiences as a Public Trainer. transformed  hundreds of developer's lives by teaching them how to work with Google Assistant, GCP, Android, Java, Flutter, UI UX, Web Development, and Gsuite in only 4 years by performing + 400 sessions across Egypt and outside Egypt. 
+I had a lot of significant professional experiences as a Public Trainer. transformed  hundreds of developer's lives by teaching them how to work with Android,،Kotlin, Java, Flutter,Google Assistant, GCP, UI UX, Web Development, and Gsuite in only 4 years by performing + 400 sessions across Egypt and outside Egypt. 
 
 
 - 🔭 I’m currently working as a **Apllication Developer | Trainer** at [BambooGeeks](https://www.bamboogeeks.com).
 - 🌱 I’m currently learning  and Developing Mobile Application with Firebase.
 - 📝 Writing tech blog posts over Internet.
-- 💬 Ask me about: Firebase, OOP, Java, XML, Android, Web, Mobile, RESTful APIs, Database, UI, UX, Cloud, Flutter,Version Control, Team Management.
+- 💬 Ask me about: Firebase, OOP, Java, Kotlin, XML, Android, Web, Mobile, RESTful APIs, Database, UI, UX, Cloud, Flutter,Version Control, Team Management.
 - 📫 How to reach me: catch, and follow me from the footer links below 👇 in addition to follow me here.
 - ⚡ Fun fact: i Love 😺 🌍 ❄️ 🍎 🍔 🍤 ⚽️ 🎧 🎬 🎤 ✈️ 💻 📱 📸  
 -->
