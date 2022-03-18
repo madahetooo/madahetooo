@@ -1,5 +1,4 @@
 # Hi, I am Eslam Medhat 👋
-![Screen Shot 2021-08-10 at 12 45 20 PM](https://user-images.githubusercontent.com/28203059/128853751-9e1cb832-3200-46cd-ab54-3f78f2093765.png)
 ![IMG_1489](https://user-images.githubusercontent.com/28203059/159007255-26cd5655-6b0b-42e0-9ce8-f035ba1ff01c.JPG)
 
 ## I am a Google Developer Expert in Firebase  🔥 and an Application Developer | Trainer at BambooGeeks, Senior Android Developer, GDG Leader , Instructor and Author.
