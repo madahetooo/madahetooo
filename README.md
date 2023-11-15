@@ -6,7 +6,7 @@
 I had a lot of significant professional experiences as a Public Trainer. transformed  hundreds of developer's lives by teaching them how to work with Android,،Kotlin, Java, Flutter,Google Assistant, GCP, UI UX, Web Development, and Gsuite in only 4 years by performing + 400 sessions across Egypt and outside Egypt. 
 
 
-- 🔭 I’m currently working as a **Expert Trainer** at [BambooGeeks](https://www.bamboogeeks.com).
+- 🔭 I’m currently working as a **Senior Flutter Developer** at [Sarmad](https://sarmad.sa/ar/).
 - 🌱 I’m currently learning  and Developing Mobile Application with Firebase.
 - 📝 Writing tech blog posts over Internet.
 - 💬 Ask me about: Firebase, OOP, Java, Kotlin, XML, Android, Web, Mobile, RESTful APIs, Database, UI, UX, Cloud, Flutter,Version Control, Team Management.
