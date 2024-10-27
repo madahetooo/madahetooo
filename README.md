@@ -1,15 +1,15 @@
 # Hi, I am Eslam Medhat 👋
 ![Screen Shot 2021-12-21 at 3 43 22 PM](https://user-images.githubusercontent.com/28203059/159008453-1fb9a75a-7503-41ae-9fe2-b70d8bdccc57.png)
 
-## I am a Google Developer Expert in Firebase  🔥 and a Senior Flutter Dev at Sarmad, Senior Android Developer,Program Mentor @Google For Startups, GDG 6 October Leader , Instructor and Author at many platforms like Al-mentor, Yanfaa, Variiance and more...
+## I am a Google Developer Expert in Firebase  🔥 and a Software Engineer || at Cyshield. I am also a Senior Android Developer,Program Mentor @Google For Startups, GDG 6 October Leader, Instructor, and Author on many platforms, such as Al-mentor, Yanfaa, Variiance, and more.
 
-I had a lot of significant professional experiences as a Public Trainer. transformed  hundreds of developer's lives by teaching them how to work with Android,،Kotlin, Java, Flutter,Google Assistant, GCP, UI UX, Web Development, and Gsuite in only 4 years by performing + 400 sessions across Egypt and outside Egypt. 
+I had many significant professional experiences as a Public Trainer. In only four years, I transformed hundreds of developers' lives by teaching them how to work with Android,،Kotlin, Java, Flutter,Google Assistant, GCP, UI UX, Web Development, and Gsuite, performing more than 400 sessions across Egypt and outside Egypt. 
 
 
-- 🔭 I’m currently working as a **Senior Flutter Developer** at [Sarmad](https://sarmad.sa/ar/).
-- 🌱 I’m currently learning  and Developing Mobile Application with Firebase.
-- 📝 Writing tech blog posts over Internet.
-- 💬 Ask me about: Firebase, OOP, Java, Kotlin, XML, Android, Web, Mobile, RESTful APIs, Database, UI, UX, Cloud, Flutter,Version Control, Team Management.
+- 🔭 I’m currently working as a **Senior Flutter Developer** at [Cyshield](https://cyshield.com/).
+- 🌱 I’m currently learning  and Developing a Mobile Application with Firebase.
+- 📝 Writing tech blog posts over the Internet.
+- 💬 Ask me about: Firebase, OOP, Java, Kotlin, XML, Android, Web, Mobile, RESTful APIs, Database, UI, UX, Cloud, Flutter, Version Control, Team Management.
 - 📫 How to reach me: catch, and follow me from the footer links below 👇 in addition to follow me here.
 - ⚡ Fun fact: i Love 😺 🌍 ❄️ 🍔 🍤 ⚽️ 🎧 🎬 🎤 ✈️ 💻 📱 📸  
 -->
@@ -17,11 +17,11 @@ I had a lot of significant professional experiences as a Public Trainer. transfo
   <summary>Some interesting facts about me!</summary>
   <br>
 
-  - In mean time, I am working on my YOUTUBE channel [Madahetooo](https://www.youtube.com/channel/UCzvY9A7v6iQuii1G4GZFzLw).
+  - In the meantime, I am working on my YOUTUBE channel [Madahetooo](https://www.youtube.com/channel/UCzvY9A7v6iQuii1G4GZFzLw).
 
-  - While Coding, Listening Music and developing useful code. ⭐️
+  - While Coding, Listening to Music, and developing useful code. ⭐️
 
-  - Watchin Youtube, Reading Books, Action, Comics,Historical Fiction, Romance, History books.
+  - Watching YouTube, Reading Books, Action, Comics, Historical Fiction, Romance, History books.
 
   - Learning programming and getting knowledge about AI & ML.
 
@@ -31,7 +31,7 @@ I had a lot of significant professional experiences as a Public Trainer. transfo
   
 ![Total Contribution](https://github-readme-streak-stats.herokuapp.com/?user=madahetooo)
 
-#### Programming language i am using :
+#### Programming language I am using :
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
@@ -41,7 +41,7 @@ I had a lot of significant professional experiences as a Public Trainer. transfo
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 
-#### Frameworks  i am using :
+#### Frameworks  I am using :
 <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
